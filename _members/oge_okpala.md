@@ -9,12 +9,7 @@ position: Junior Specialist
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
 email: oge.okpala (at) ucsf.edu #Preferred public email address
-scholar: XXXXXXXXXXXX #Google Scholar User ID
-website: https://website.com/
-UCSF: XXXXXXXX #UCSF Profile ID - Employees only
-twitter: username
-linkedin: username
-github: username
-orcid: XXXX-XXXX-XXXX-XXXX
+linkedin: oge-okpala-0a9918338
+orcid: 0009-0002-8538-5191
 description: "Oge is a Junior Specialist in the Capra Lab at UCSF. She graduated from UC Berkeley with a double B.A. in Integrative Biology and Media Studies. Her research interest is in epigenetics, particularly improving the portability of methylation-based predictors to all human ancestry groups. In her free time, she enjoys going to concerts, crocheting, hiking, and taking a road trip."
 ---
